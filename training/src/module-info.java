@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author soft
+ *
+ */
+module training {
+}
