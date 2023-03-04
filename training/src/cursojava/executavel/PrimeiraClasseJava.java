@@ -8,6 +8,9 @@ public class PrimeiraClasseJava {
 	public static void main(String[] args) {
 		List<Double> numeros = Arrays.asList(4.99,49.92,34.99,54.97,125.00,5.5,28.67,12.5,227.32,13.96,68.29,19.66,25.92);
 		double resultado = somarNumero(numeros);
+		
+		private String nome;
+		
 		System.out.println("A soma da lista é " + resultado);
 	}
 	
